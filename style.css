@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  font-family: 'Onest', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.HeaderMain{
+  text-align: left;
+}
+
+.HeadingImage {
+  position: absolute;
+  top: 15px;
+  right: 0;
+  width: 50%;
+  width: 90px;
+  height: 90px;
+}
+
+.HeaderMain, h1, h2, h3, h4, h5, h6{
+  margin: 1px;
+  color: #404040;
+}
+
+.Table{
+  margin: auto;
+  width: 80%;
+  background-color: #c2d1ff;
+  padding: 10px;
+  border-radius: 12px;
+  color: white;
+}
+
+td{
+  stroke: 50px;
+}
+
+.ColorBlock{
+  background-color: #404040;
+  color: white;
+  padding: 5px;
+  width: 30%;
+  border-radius: 5px;
+}
